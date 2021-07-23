@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/prodigal-1/static/css/main.b3a610b8.chunk.css",
+    "main.js": "/prodigal-1/static/js/main.c4bf27ab.chunk.js",
+    "main.js.map": "/prodigal-1/static/js/main.c4bf27ab.chunk.js.map",
+    "runtime-main.js": "/prodigal-1/static/js/runtime-main.ef420459.js",
+    "runtime-main.js.map": "/prodigal-1/static/js/runtime-main.ef420459.js.map",
+    "static/css/2.f9d591a1.chunk.css": "/prodigal-1/static/css/2.f9d591a1.chunk.css",
+    "static/js/2.742b9a61.chunk.js": "/prodigal-1/static/js/2.742b9a61.chunk.js",
+    "static/js/2.742b9a61.chunk.js.map": "/prodigal-1/static/js/2.742b9a61.chunk.js.map",
+    "static/js/3.adc9b511.chunk.js": "/prodigal-1/static/js/3.adc9b511.chunk.js",
+    "static/js/3.adc9b511.chunk.js.map": "/prodigal-1/static/js/3.adc9b511.chunk.js.map",
+    "index.html": "/prodigal-1/index.html",
+    "static/css/2.f9d591a1.chunk.css.map": "/prodigal-1/static/css/2.f9d591a1.chunk.css.map",
+    "static/css/main.b3a610b8.chunk.css.map": "/prodigal-1/static/css/main.b3a610b8.chunk.css.map",
+    "static/js/2.742b9a61.chunk.js.LICENSE.txt": "/prodigal-1/static/js/2.742b9a61.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/prodigal-1/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/prodigal-1/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef420459.js",
+    "static/css/2.f9d591a1.chunk.css",
+    "static/js/2.742b9a61.chunk.js",
+    "static/css/main.b3a610b8.chunk.css",
+    "static/js/main.c4bf27ab.chunk.js"
+  ]
+}
